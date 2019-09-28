@@ -3,8 +3,8 @@ def create_an_empty_array
 end
  
 def soda_type
-  []
-  
+  ["Coke", "Sprite", "Pepsi", "Orange soda"]
+  soda_type[]
 end
 
 def add_element_to_end_of_array
