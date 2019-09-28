@@ -4,7 +4,7 @@ end
  
 def soda_type
   ["Coke", "Sprite", "Pepsi", "Orange soda"]
-  soda_type[]
+  puts soda_type[2]
 end
 
 def add_element_to_end_of_array
